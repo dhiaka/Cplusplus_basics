@@ -10,8 +10,10 @@ x is a variable and the int is the data type , and we have assigned an integer v
 we can use the double , why? cause decimals and exponentials should have double type to store in.
 
 
-" int x = 1; "
-" x = 2; "
+```c++
+int x = 1;
+x = 2;
+```
 3) note :
 the value of a variable can be changed.
 
@@ -53,7 +55,10 @@ in C++ programming E-5= 10^-5 .
 - strings: a sequence of characters enclosed in double quotations makrs , ( example : "hi" , "" , "   " , "lol\n")
 
 ## 3/3 VARIABLES
-a vaiables whose value cannot be changed , we use the  **const** keyword , ( example : const int x = 5; )
+a vaiables whose value cannot be changed , we use the  **const** keyword :
+```c++
+const int x = 5
+```
 
 
 
