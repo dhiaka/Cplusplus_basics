@@ -8,7 +8,8 @@ the conversion of data from one type to another to another is called type
 ## implicit conversion
 
 1. conversion from int to double
-__ example 1 __
+
+** example 1 **
 ```c++
 #include <iostream>
 using namespace std;
