@@ -5,6 +5,7 @@ int main()
 {
     int first_v,second_v,sum;
     
+    
     cout << "enter two int :";
     cin >> first_v >> second_v;
     
