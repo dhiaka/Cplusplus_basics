@@ -10,5 +10,5 @@ int  main()
     
     cout << "u entered x = " << x ;
     
-    return 0
+    return 0;
 }
